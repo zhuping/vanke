@@ -1,0 +1,26 @@
+{
+  "name": "vanke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuping/vanke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuping/vanke/issues"
+  },
+  "homepage": "https://github.com/zhuping/vanke#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cron": "^1.5.1",
+    "js-base64": "^2.4.9",
+    "js-md5": "^0.7.3"
+  }
+}
